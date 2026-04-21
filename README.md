@@ -1,6 +1,6 @@
-# Classes de um Jogo - Herói (Desafio DIO)
+# Tipo de um Herói e seu ataque (Desafio DIO)
 
-Projeto desenvolvido como parte do desafio de lógica de programação da DIO, com foco na utilização de classes e orientação a objetos em JavaScript.
+Projeto desenvolvido como parte do desafio de lógica de programação da DIO, com foco na utilização de classes em JavaScript.
 
 ---
 
