@@ -1,4 +1,4 @@
-# Tipo de um Herói e seu ataque (Desafio DIO)
+# Tipo de um Herói e seu ataque
 
 Projeto desenvolvido como parte do desafio de lógica de programação da DIO, com foco na utilização de classes em JavaScript.
 
